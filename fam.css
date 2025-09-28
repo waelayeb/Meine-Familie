@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Zain";
+    src: url("Zain-Regular.ttf") format("trutype"), url("Zain-Regular.woff") format("woff"), url("Zain-Regular.woff2") format("woff2"), ;
+}
 body{
     background-color: lemonchiffon;
     font-family: Zain;
