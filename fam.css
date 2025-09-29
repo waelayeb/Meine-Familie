@@ -44,4 +44,6 @@ iframe{
     margin-right: auto;
     margin-left: auto;
     text-align: justify;
+    border-left: solid #006400 3px;
+    padding-left: 5px;
 }
